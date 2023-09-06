@@ -1,4 +1,3 @@
-#https://www.codingninjas.com/studio/problems/lower-bound_8165382?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTab=0
 
 def lowerBound(arr: [int], n: int, x: int) -> int:
     # Write your code here
