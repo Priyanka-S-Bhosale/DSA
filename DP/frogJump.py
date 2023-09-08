@@ -1,3 +1,5 @@
+#https://www.codingninjas.com/studio/problems/frog-jump_3621012?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
 from os import *
 from sys import *
 from collections import *
